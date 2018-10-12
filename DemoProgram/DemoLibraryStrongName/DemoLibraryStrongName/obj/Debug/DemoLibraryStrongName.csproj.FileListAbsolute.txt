@@ -1,0 +1,5 @@
+D:\Programmer's Resources\Epam Programms\Day 1\DemoLibraryStrongName\DemoLibraryStrongName\bin\Debug\DemoLibraryStrongName.dll
+D:\Programmer's Resources\Epam Programms\Day 1\DemoLibraryStrongName\DemoLibraryStrongName\bin\Debug\DemoLibraryStrongName.pdb
+D:\Programmer's Resources\Epam Programms\Day 1\DemoLibraryStrongName\DemoLibraryStrongName\obj\Debug\DemoLibraryStrongName.csprojResolveAssemblyReference.cache
+D:\Programmer's Resources\Epam Programms\Day 1\DemoLibraryStrongName\DemoLibraryStrongName\obj\Debug\DemoLibraryStrongName.dll
+D:\Programmer's Resources\Epam Programms\Day 1\DemoLibraryStrongName\DemoLibraryStrongName\obj\Debug\DemoLibraryStrongName.pdb
